@@ -29,6 +29,9 @@ export default {
           900: '#831843',
         },
       },
+      fontFamily: {
+        sans: ['Inter', 'Inter Fallback', 'ui-sans-serif', 'system-ui', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', '"Helvetica Neue"', 'Arial', '"Noto Sans"', 'sans-serif'],
+      },
     },
   },
   plugins: [],
